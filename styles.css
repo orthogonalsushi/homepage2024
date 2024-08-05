@@ -1,0 +1,70 @@
+body {
+    margin: 15px;
+    background: #121212;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    transition: all 1s;
+}
+
+.page-headings {
+    text-align: center;
+}
+
+/* #card1 {
+    height: 30%;
+    top: auto;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    font-size: 90%;
+} */
+
+.txt-n {
+    text-align: center;
+}
+
+.nav-pd {
+    padding-left: 5px
+}
+
+.graphs1_4 {
+    width: 35%;
+}
+
+.flood-maps {
+    width: 30%;
+}
+
+/* @media (max-width: 1200px) {
+    body::before{
+        content: "XL";
+    }
+}
+
+@media (max-width: 992px) {
+    body::before {
+        content: "LG";
+    }
+    /* #card1 {
+        height: 50%;
+    } */
+}
+
+@media (max-width: 768px) {
+    body::before {
+        content: "MD";
+    }
+    /* #card1 {
+        height: 80%;
+    } */
+}
+
+@media (max-width: 576px) {
+    body::before {
+      content: "SM";
+    }
+    /* #card1 {
+        height: 100%;
+        font-size: 85%;
+    } */
+} */
